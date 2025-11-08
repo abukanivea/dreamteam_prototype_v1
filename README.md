@@ -23,7 +23,7 @@ https://dreamteam-pilot-app-7s4r.glide.page
 ## Setup / Usage
 No installation required.
 Open the Live MVP link above to test the prototype.
-Screens and flows are demonstrated in the Milestone #3 document.
+Screens and flows are demonstrated via documentation.
 
 ## Data & Privacy Notes
 - No secrets, API keys, or credentials are stored in this repository.
